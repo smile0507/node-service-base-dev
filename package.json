@@ -1,5 +1,5 @@
 {
-  "name": "@bitoroprotocol/node-service-base-dev",
+  "name": "bitoroprotocol-node-service-base-dev",
   "version": "1.0.0",
   "description": "Shared development configuration and utilities for Node services",
   "main": "build/index.js",
